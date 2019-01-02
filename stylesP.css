@@ -1,0 +1,25 @@
+body {
+background-color: #292F36;
+}
+
+.mainContainer {
+  background-color: #4ECDC4;
+  display: grid;
+  grid-template-columns: auto;
+  align-items: center;
+}
+
+.searchBox {
+  background-color: #FFE66D;
+  margin: auto;
+}
+
+.mainContainer h1 {
+  color: #F7FFF7;
+  justify-self: center;
+}
+
+.mainContainer h3 {
+  color: #F7FFF7;
+  justify-self: center;
+}
